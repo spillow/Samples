@@ -51,3 +51,10 @@ stylometry
 The goal here is to determine the authorship of some unknown work by selecting from a pool of
 authors that it has been trained on.
 
+auto_composition
+================
+
+For the Coursera Class "Survey of Music Technology" final project.  Interfacing with the
+Reaper DAW, algorithmically creates a small composition using randomness while conforming
+to a few music theory ideas.
+
