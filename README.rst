@@ -58,3 +58,9 @@ For the Coursera Class "Survey of Music Technology" final project.  Interfacing 
 Reaper DAW, algorithmically creates a small composition using randomness while conforming
 to a few music theory ideas.
 
+proglang-003
+================
+
+Assignments for the Coursera Course Programming Languages:
+https://www.coursera.org/course/proglang
+
